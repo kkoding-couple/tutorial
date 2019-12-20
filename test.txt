@@ -2,7 +2,4 @@ a
 b
 c
 d
-<<<<<<< HEAD
 e
-=======
->>>>>>> parent of 64b6649... abcdd

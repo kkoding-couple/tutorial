@@ -43,6 +43,6 @@ train['text'].str.len()
 
 <https://kkoding-couple.github.io>
 
-[다음](https://www.daum.net, "검색 사이트")
+[다음](https://www.daum.net "검색 사이트")
 
 ![이미지 연습](http://kyrieko.dothome.co.kr/images/first.jpg)
